@@ -8,12 +8,6 @@ console.log(surnameList);
 surnameList.sort();
 console.log(surnameList);
 // Scrivi anche la posizione della lista in cui il nuovo utente si trova.
-
-
-
-
-
-
 var i = 0;
 var n = 1;
 do {
@@ -21,4 +15,3 @@ do {
   i++;
   n++;
 } while (i < surnameList.length);
-console.log(surnameList);
